@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MarioCode21
-- 👀 I’m interested in programming and woodworking
+- 👀 I’m interested in programming
 - 🌱 I’m currently learning Joiner
 
 <!---
